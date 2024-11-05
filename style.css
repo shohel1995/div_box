@@ -22,3 +22,12 @@
     margin-top: 10px;
     
 }
+
+.main{
+    height: 400px;
+    width: 100%;
+    border: 1px solid white;
+    display: flex;
+    margin-bottom: 10px;
+   
+}
